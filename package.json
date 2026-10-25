@@ -1,0 +1,28 @@
+{
+  "name": "b2b-domain-email-tech-stack-enricher",
+  "version": "2.0.0",
+  "description": "Extract verified business emails, phone numbers, LinkedIn/X profiles, DNS MX/SPF/DMARC security, and 38+ technology & ad pixel signatures from any company domain.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "b2b-domain-email-tech-stack-enricher": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "b2b-leads",
+    "email-finder",
+    "lead-enrichment",
+    "tech-stack",
+    "cold-email",
+    "sales-intelligence",
+    "web-scraping",
+    "osint",
+    "n8n-workflow",
+    "apify",
+    "domain-scanner",
+    "email-extractor"
+  ],
+  "license": "MIT"
+}
